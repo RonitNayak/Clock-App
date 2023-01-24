@@ -10,7 +10,7 @@ check it out [here](https://ronitnayak.github.io/Clock-App/)
 
 <br>
 
-
+Insert Preview Image here
 
 <br>
 
