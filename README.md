@@ -1,5 +1,6 @@
 # Digital Clock App
-_Simple single-page site I made using HTML, CSS and JS_
+
+Simple single-page site I made using HTML, CSS and JS
 
 <br>
 
